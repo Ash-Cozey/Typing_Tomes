@@ -68,7 +68,7 @@ This second page has a number of data points such as the time you have spent typ
 
 <img width="831" height="177" alt="image" src="https://github.com/user-attachments/assets/9a6fd3c5-708b-4dff-9b41-879680d72595" />
 
-Below is a heatmap, with each square representing a day, that starts from the first day you logged a result, and the next 364 days of the year to follow. You can mouse over any of the entries to know how much time was spent. Below that is another bar chart:
+Above is a heatmap, with each square representing a day, that starts from the first day you logged a result, and the next 364 days of the year to follow. You can mouse over any of the entries to know how much time was spent. Below that is another bar chart:
 
 <img width="804" height="311" alt="image" src="https://github.com/user-attachments/assets/cb491f1b-57c7-4716-881b-b7b779fe39c7" />
 
@@ -92,7 +92,7 @@ After it is done, you can choose to redo a test on the same weaknesses by pressi
 
 # Themes
 
-In the settings panel, accessed via the settings button below the histogram, you can select the fonts, size, choose the type of typing you want, and choose one of the themes/skins included. If you aren't happy with the default theme, by all means try one of the several included. A few examples are:
+In the settings panel, accessed via the _settings menu_ at the top, you can select the fonts, size, choose the type of typing you want, and choose one of the themes/skins included. If you aren't happy with the default theme, by all means try one of the several included. A few examples are:
 
 <img width="865" height="251" alt="image" src="https://github.com/user-attachments/assets/e07f16a8-27ba-4883-aa84-e43944117c95" />
 
